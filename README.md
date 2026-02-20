@@ -51,6 +51,7 @@ BDD-driven automation implementation with reusable step definitions and modular 
 
 - IEEE Computer Society Member
 - ORCID: https://orcid.org/0009-0000-5560-7924
+- IEEE Collabratec Profile: https://ieee-collabratec.ieee.org/app/p/TarunKumar1178360
 
 ---
 
